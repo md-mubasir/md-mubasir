@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @md-mubasir
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Engineering Tools like Scala, Apachi Spark, Spreto, Hadoop etc
+- 🌱 I’m currently learning Data Engineering Tools like Scala, Apache Spark, Spreto, Hadoop etc
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Reach me @ https://www.linkedin.com/in/mdmubasir1998
 
